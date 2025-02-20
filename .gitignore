@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +170,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+__pycache__/
+*.log
+*.db
+.env
+config.py  # Se contiene credenziali private
+# Ignora la cartella dell'ambiente virtuale
+.venv/
+>>>>>>> 3447fbf (Initial commit)

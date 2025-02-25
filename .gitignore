@@ -179,3 +179,4 @@ config.py  # Se contiene credenziali private
 # Ignora la cartella dell'ambiente virtuale
 .venv/
 >>>>>>> 3447fbf (Initial commit)
+certs/
